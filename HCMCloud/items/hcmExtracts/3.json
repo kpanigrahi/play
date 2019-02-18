@@ -3,7 +3,7 @@
     "id": 3,
     "name": "KP_HR_TEST_HCMEXTRACTS_3",
     "type": "hcmExtracts",
-    "desc": "This is the first data model created using web service",
+    "desc": "This is the first data model created using web service-udpated",
     "modules": [
       "HR"
     ],
