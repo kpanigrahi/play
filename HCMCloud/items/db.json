@@ -1,0 +1,11 @@
+{
+  "lastUsedId": 1,
+  "items": [
+    {
+      "id": 1,
+      "name": "KP_HR_I397_GET_DEPARTMENT_DATA_V1",
+      "type": "valueset",
+      "url": "HCMCloud/items/valueset/1.json"
+    }
+  ]
+}

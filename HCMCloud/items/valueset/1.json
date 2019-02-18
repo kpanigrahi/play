@@ -1,0 +1,11 @@
+{
+  "item": {
+    "id": 1,
+    "name": "KP_HR_I397_GET_DEPARTMENT_DATA_V1",
+    "type": "valueset",
+    "desc": "Valueset to fetch all the departments in the system",
+    "modules": [
+      "HR"
+    ]
+  }
+}
