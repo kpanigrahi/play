@@ -1,0 +1,22 @@
+{
+  "project": {
+    "id": 1,
+    "name": "I397",
+    "desc": "Person data",
+    "longDesc": "Captures all the items for Person Data project",
+    "items": [
+      {
+        "id": 1,
+        "name": "KP_HR_I397_GET_DEPARTMENT_DATA_V1",
+        "type": "valueset",
+        "url": "HCMCloud/items/valueset/1.json"
+      },
+      {
+        "id": 2,
+        "name": "KP_HR_I397_PERSON_DATA_V1",
+        "type": "hcmExtracts",
+        "url": "HCMCloud/items/hcmExtracts/2.json"
+      }
+    ]
+  }
+}
