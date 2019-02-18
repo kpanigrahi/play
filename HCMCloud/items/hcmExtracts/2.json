@@ -3,10 +3,9 @@
     "id": 2,
     "name": "KP_HR_I397_PERSON_DATA_V1",
     "type": "hcmExtracts",
-    "desc": "Extracts all the person information from HCM Cloud and sends to KPDW environment",
+    "desc": "Extracts all the person information from HCM Cloud and sends to KPDW environment-udpated",
     "modules": [
       "HR"
-    ],
-    "url": "HCMCloud/items/hcmExtracts/packages/2.zip"
+    ]
   }
 }
