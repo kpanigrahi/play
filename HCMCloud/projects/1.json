@@ -3,19 +3,19 @@
     "id": 1,
     "name": "I397",
     "desc": "Person data",
-    "longDesc": "Captures all the items for Person Data project-udpated-11",
+    "longDesc": "Captures all the items for Person Data project-udpated-1",
     "items": [
       {
         "id": 1,
-        "name": "KP_HR_I397_GET_DEPARTMENT_DATA_V11",
-        "type": "valueset1",
-        "url": "HCMCloud/items/valueset/1.json1"
+        "name": "KP_HR_I397_GET_DEPARTMENT_DATA_V1",
+        "type": "valueset",
+        "url": "HCMCloud/items/valueset/1.json"
       },
       {
         "id": 2,
-        "name": "KP_HR_I397_PERSON_DATA_V11",
-        "type": "hcmExtracts1",
-        "url": "HCMCloud/items/hcmExtracts/2.json1"
+        "name": "KP_HR_I397_PERSON_DATA_V1",
+        "type": "hcmExtracts",
+        "url": "HCMCloud/items/hcmExtracts/2.json"
       }
     ]
   }
