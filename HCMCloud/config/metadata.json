@@ -1,0 +1,35 @@
+{
+    "lastUsedId": 6,
+    "folders": [
+        {
+            "id": 1,
+            "name": "profiles",
+            "url": "HCMCloud/config"
+        },
+        {
+            "id": 2,
+            "name": "roles",
+            "url": "HCMCloud/config"
+        },
+        {
+            "id": 3,
+            "name": "modules",
+            "url": "HCMCloud/config"
+        },
+        {
+            "id": 4,
+            "name": "items",
+            "url": "HCMCloud/items"
+        },
+        {
+            "id": 5,
+            "name": "projects",
+            "url": "HCMCloud/projects"
+        },
+        {
+            "id": 6,
+            "name": "defects",
+            "url": "HCMCloud/defects"
+        }
+    ]
+}
