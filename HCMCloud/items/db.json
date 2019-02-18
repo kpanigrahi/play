@@ -1,5 +1,5 @@
 {
-  "lastUsedId": 2,
+  "lastUsedId": 3,
   "items": [
     {
       "id": 1,
@@ -12,6 +12,12 @@
       "name": "KP_HR_I397_PERSON_DATA_V1",
       "type": "hcmExtracts",
       "url": "HCMCloud/items/hcmExtracts/2.json"
+    },
+    {
+      "id": 3,
+      "name": "KP_HR_TEST_HCMEXTRACTS_3",
+      "type": "hcmExtracts",
+      "url": "HCMCloud/items/hcmExtracts/3.json"
     }
   ]
 }
